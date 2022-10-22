@@ -1,7 +1,7 @@
 Gitの練習をしていく
 
 基本を学ぶぜ
-git diff
+git diff HEAD
 
 
 
