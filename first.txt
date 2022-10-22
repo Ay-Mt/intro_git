@@ -1,4 +1,8 @@
 Gitの練習をしていく
-<title>
-あ
-</title>
+
+基本を学ぶぜ
+git diff
+
+
+
+
